@@ -1,0 +1,7 @@
+C:\Users\ekomarov\AppData\Roaming\npm\ng -> C:\Users\ekomarov\AppData\Roaming\npm\node_modules\@angular\cli\bin\ng
+
+> @angular/cli@10.0.3 postinstall C:\Users\ekomarov\AppData\Roaming\npm\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
++ @angular/cli@10.0.3
+added 36 packages from 35 contributors, removed 7 packages, updated 67 packages and moved 1 package in 14.668s

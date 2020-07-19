@@ -1,0 +1,15 @@
+mat-expansion-panel{
+    margin: 5px;
+    text-align: center;
+}
+
+mat-panel-title{
+    color: darkkhaki;
+    font-size: 5vh;
+}
+
+mat-panel-description{
+    color: darkseagreen;
+    align-items: center;
+    text-align: right;
+}

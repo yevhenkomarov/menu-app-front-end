@@ -1,0 +1,10 @@
+button{
+    font-size: 30px;
+    color: burlywood;
+    width: inherit;
+    padding-left: 2vmax;
+    padding-right: 2vmax;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}

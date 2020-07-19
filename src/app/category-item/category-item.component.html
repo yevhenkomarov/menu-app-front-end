@@ -1,0 +1,6 @@
+<h1>{{itemName}}</h1>
+<div *ngFor="let product of products">
+    <div>
+        <app-concrete-item productDescription = {{product.description}} productPrice = {{product.price}} productName = {{product.name}}></app-concrete-item>
+    </div>
+</div>
