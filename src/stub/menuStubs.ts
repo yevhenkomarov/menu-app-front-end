@@ -1,4 +1,3 @@
-export const items:string[] = [ 'burgers', 'beer', 'pizza' ];
 
 export const burgers:string = `[
   {

@@ -13,6 +13,9 @@ import { ProductsStorage } from './data/productsStorage';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MyOrderComponent } from './my-order/screen/my-order.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -28,7 +31,9 @@ import { MyOrderComponent } from './my-order/screen/my-order.component';
     AppRoutingModule,
     RouterModule.forRoot(appRoutes),
     BrowserAnimationsModule,
-    MatExpansionModule
+    MatExpansionModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
+    HttpClientModule
   ],
   providers: [ProductsStorage],
   bootstrap: [AppComponent]
