@@ -33,11 +33,7 @@ export class ConcreteItemComponent implements OnInit {
   }
 
   onAddToCartClicked(){
-    const currentProductData = new ProductData();
-    currentProductData.name = this.productName;
-    currentProductData.price = this.productPrice;
-    currentProductData.description = this.productDescription;
-
+    const currentProductData = new ProductData(this.productName, this.productDescription, this.productPrice);
     this.orderService.addToMyOrder(currentProductData, this.itemsCount);
   }
 }

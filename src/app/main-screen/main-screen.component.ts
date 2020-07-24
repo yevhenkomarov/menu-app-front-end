@@ -9,12 +9,16 @@ import { ProductsStorage } from '../data/productsStorage';
 export class MainScreenComponent implements OnInit {
 
   items: string[]
-  constructor(private dataProvider:ProductsStorage) { }
+  constructor(private dataProvider: ProductsStorage) { }
 
   ngOnInit() {
-    this.dataProvider.onMenuUpdated.subscribe(x => {
+    if (this.dataProvider.menuObject == undefined) {
+      this.dataProvider.onMenuUpdated.subscribe(x => {
+        this.items = this.dataProvider.getCategories();
+      })
+    }
+    else {
       this.items = this.dataProvider.getCategories();
-    })
+    }
   }
-
 }

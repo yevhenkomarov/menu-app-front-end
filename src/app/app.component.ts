@@ -7,7 +7,7 @@ import { ProductsStorage } from './data/productsStorage';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
   title = 'menuApp';
   messages = this.http.get<any[]>('http://localhost:4201');
 
@@ -15,7 +15,5 @@ export class AppComponent implements OnInit {
     this.messages.forEach(element => {
       this.productsStorage.setMenuObject(element);
     });
-  }
-  ngOnInit(): void {
   }
 }

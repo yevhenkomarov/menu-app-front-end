@@ -1,9 +1,12 @@
 import 'src/stub/menuStubs'
-import { burgers, beer, pizza } from 'src/stub/menuStubs'
 import { ProductData, ResponseDto, MenuItem } from './productData';
 import { List } from 'linqts';
-import { EventEmitter } from '@angular/core';
+import { EventEmitter, Injectable } from '@angular/core';
 
+@Injectable({
+    providedIn: 'root'
+   })
+   
 export class ProductsStorage{
 
     onMenuUpdated:EventEmitter<ResponseDto> = new EventEmitter<ResponseDto>();
@@ -33,30 +36,15 @@ export class ProductsStorage{
     }
 
     getProductsByCategory(category:string):ProductData[]{
-        var input:string;
-        switch(category){
-            case 'burgers':
-                input = burgers;
-                break;
-            case 'beer':
-                input = beer;
-                break;
-            case 'pizza':
-                input = pizza;
-                break;
-        }
-        var result:ProductData[] = [];
-        const data:Array<{name:string, description:string, price:number}> = JSON.parse(input);
-        
-        for (let index = 0; index < data.length; index++) {
-            const element = data[index];
-            let item = new ProductData();
-            item.name = element.name;
-            item.description = element.description;
-            item.price = element.price;
-            result.push(item);
-        }
+        var result:List<ProductData> = new List<ProductData>();
 
-        return result;      
+        let arr = this.menuObject.menu as unknown as Array<MenuItem>;
+        for (let index = 0; index < arr.length; index++) {
+            const element = arr[index];
+            if (element.group == category) {
+                result.Add(new ProductData(element.name, element.name, +element.price))
+            }
+        }
+        return result.ToArray();      
     }
 }

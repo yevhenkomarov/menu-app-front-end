@@ -5,8 +5,7 @@ import { ProductsStorage } from '../data/productsStorage';import { ProductData }
 @Component({
   selector: 'app-category-item',
   templateUrl: './category-item.component.html',
-  styleUrls: ['./category-item.component.css'],
-  providers: [ ProductsStorage ]
+  styleUrls: ['./category-item.component.css']
 })
 
 export class CategoryItemComponent implements OnInit {

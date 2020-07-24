@@ -1,10 +1,7 @@
 import { List } from 'linqts';
 
 export class ProductData{
-
-    name:string;
-    description:string;
-    price:number;
+    constructor(public name:string, public description:string, public price:number){}
 }
 
 export interface ResponseDto{
