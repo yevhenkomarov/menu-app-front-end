@@ -5,46 +5,55 @@ import { EventEmitter, Injectable } from '@angular/core';
 
 @Injectable({
     providedIn: 'root'
-   })
-   
-export class ProductsStorage{
+})
 
-    onMenuUpdated:EventEmitter<ResponseDto> = new EventEmitter<ResponseDto>();
-    menuObject:ResponseDto;
-    setMenuObject(response:{}){
+export class ProductsStorage {
+
+    onMenuUpdated: EventEmitter<ResponseDto> = new EventEmitter<ResponseDto>();
+    menuObject: ResponseDto;
+    setMenuObject(response: {}) {
         this.menuObject = response as ResponseDto;
         this.onMenuUpdated.emit(this.menuObject);
     }
 
-    getCategories():Array<string>{
+    getCategories(): Array<string> {
         const result = new List<string>();
-
-        let arr = this.menuObject.menu as unknown as Array<MenuItem>;
-        for (let index = 0; index < arr.length; index++) {
-            const element = arr[index];
-            if(!result.Contains(element.group)){
-                result.Add(element.group);
+        for (let index = 0; index < this.menuObject.menu.length; index++) {
+            const element = this.menuObject.menu[index];
+            if (!result.Contains(element.category) && !this.menuObject.excluded_groups.includes(element.category)) {
+                result.Add(element.category);
             }
         }
-
-        // this.menuObject.menu.menuItems.ForEach(x => {
-        //     if(!result.Contains(x.group)){
-        //         result.Add(x.group);
-        //     }
-        // })
         return result.ToArray();
     }
 
-    getProductsByCategory(category:string):ProductData[]{
-        var result:List<ProductData> = new List<ProductData>();
+    getCategoriesByGroup(group: string): Array<string> {
+        const result = new List<string>();
+        for (let index = 0; index < this.menuObject.menu.length; index++) {
+            const element = this.menuObject.menu[index];
+            if (element.group == group
+                && !result.Contains(element.category)
+                && !this.menuObject.excluded_groups.includes(element.category)) {
+                result.Add(element.category);
+            }
+        }
+        return result.ToArray();
+    }
+
+    getProductsByCategory(category: string): ProductData[] {
+        var result: List<ProductData> = new List<ProductData>();
 
         let arr = this.menuObject.menu as unknown as Array<MenuItem>;
         for (let index = 0; index < arr.length; index++) {
             const element = arr[index];
-            if (element.group == category) {
+            if (element.category == category) {
                 result.Add(new ProductData(element.name, element.name, +element.price))
             }
         }
-        return result.ToArray();      
+        return result.ToArray();
+    }
+
+    getBoardGames():string[]{
+        return this.menuObject.board_games;
     }
 }

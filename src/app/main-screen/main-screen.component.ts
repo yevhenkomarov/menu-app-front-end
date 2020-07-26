@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { ProductsStorage } from '../data/productsStorage';
 
 @Component({
   selector: 'app-main-screen',
@@ -8,17 +7,8 @@ import { ProductsStorage } from '../data/productsStorage';
 })
 export class MainScreenComponent implements OnInit {
 
-  items: string[]
-  constructor(private dataProvider: ProductsStorage) { }
+  constructor() { }
 
   ngOnInit() {
-    if (this.dataProvider.menuObject == undefined) {
-      this.dataProvider.onMenuUpdated.subscribe(x => {
-        this.items = this.dataProvider.getCategories();
-      })
-    }
-    else {
-      this.items = this.dataProvider.getCategories();
-    }
   }
 }
