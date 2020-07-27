@@ -1,0 +1,5 @@
+.example-container {
+    position: relative;
+    background: rgb(31, 13, 13);
+    min-height: 700px;
+  }

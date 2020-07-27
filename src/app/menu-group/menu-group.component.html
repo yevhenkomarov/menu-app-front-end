@@ -1,6 +1,12 @@
-<div *ngFor="let category of categories;">
-    <button class="mat-fab" routerLink="{{category}}">
-       {{category}}</button>
-</div>
-
-<router-outlet></router-outlet>
+<mat-drawer-container class="example-container">
+  <mat-drawer class="side-container" mode="side" opened>
+    <div *ngFor="let category of categories">
+      <button class="mat-stroked-button" routerLink="{{ category }}">
+        {{ category }}
+      </button>
+    </div>
+  </mat-drawer>
+  <mat-drawer-content>
+    <router-outlet></router-outlet>
+  </mat-drawer-content>
+</mat-drawer-container>

@@ -1,7 +1,16 @@
-<div>
-    <button class="mat-fab" routerLink="Кухня">ЇСТИ</button>
-    <button class="mat-fab" routerLink="Бар">ПИТИ</button>
-    <button class="mat-fab" routerLink="Настільні_Ігри">НАСТІЛЬНІ ІГРИ</button>
-</div>
+
+<mat-list>
+    <mat-list-item>
+        <button class="center" mat-stroked-button color="accent" routerLink="Кухня">ЇСТИ</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+    <mat-list-item>
+        <button class="center" mat-stroked-button  color="primary" routerLink="Бар">ПИТИ</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+    <mat-list-item>
+        <button  class="center" mat-stroked-button  color="primary" routerLink="Настільні_Ігри">НАСТІЛЬНІ ІГРИ</button>
+    </mat-list-item>
+  </mat-list>
 
 <router-outlet></router-outlet>

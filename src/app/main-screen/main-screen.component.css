@@ -1,10 +1,20 @@
 button{
     font-size: 30px;
-    color: burlywood;
+    color: rgb(154, 179, 212);
+    background-color: rgb(14, 28, 32);
     width: inherit;
     padding-left: 2vmax;
     padding-right: 2vmax;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  mat-divider{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }

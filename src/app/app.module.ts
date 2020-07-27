@@ -17,6 +17,10 @@ import { environment } from '../environments/environment';
 import { HttpClientModule } from '@angular/common/http';
 import { MenuGroupComponent } from './menu-group/menu-group.component';
 import { BoardGamesComponent } from './board-games/board-games.component';
+import { MatButtonModule } from '@angular/material/button';
+import { MatDividerModule } from '@angular/material/divider';
+import { MatListModule } from '@angular/material/list';
+import { MatSidenavModule } from '@angular/material/sidenav';
 
 @NgModule({
   declarations: [
@@ -36,7 +40,11 @@ import { BoardGamesComponent } from './board-games/board-games.component';
     BrowserAnimationsModule,
     MatExpansionModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
-    HttpClientModule
+    HttpClientModule,
+    MatButtonModule,
+    MatDividerModule,
+    MatListModule,
+    MatSidenavModule
   ],
   providers: [],
   bootstrap: [AppComponent]
