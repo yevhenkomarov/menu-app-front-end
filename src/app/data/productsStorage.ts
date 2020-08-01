@@ -47,7 +47,7 @@ export class ProductsStorage {
         for (let index = 0; index < arr.length; index++) {
             const element = arr[index];
             if (element.category == category) {
-                result.Add(new ProductData(element.name, element.name, +element.price))
+                result.Add(new ProductData(element.name, element.description, +element.price))
             }
         }
         return result.ToArray();
