@@ -8,7 +8,6 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./menu-group.component.css']
 })
 export class MenuGroupComponent implements OnInit {
-
   categories: string[]
   group:string;
   constructor(private dataProvider: ProductsStorage, route:ActivatedRoute) { 
@@ -27,5 +26,4 @@ export class MenuGroupComponent implements OnInit {
       this.categories = this.dataProvider.getCategoriesByGroup(this.group);
     }
   }
-
 }

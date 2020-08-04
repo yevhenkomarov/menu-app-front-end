@@ -1,12 +1,15 @@
 <mat-drawer-container class="example-container">
-  <mat-drawer class="side-container" mode="side" opened>
+  <mat-drawer #drawer class="side-container" mode="side" opened>
     <div *ngFor="let category of categories">
-      <button class="mat-stroked-button" routerLink="{{ category }}">
+      <button class="mat-stroked-button" (click)="drawer.toggle()" routerLink="{{ category }}">
         {{ category }}
       </button>
     </div>
   </mat-drawer>
   <mat-drawer-content>
     <router-outlet></router-outlet>
+      <button id="toggle" type="button" mat-button (click)="drawer.toggle()">
+        >
+      </button>
   </mat-drawer-content>
 </mat-drawer-container>
