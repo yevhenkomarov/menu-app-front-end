@@ -1,9 +1,11 @@
+<body>
 <p>Моє замовлення</p>
 
-<li *ngFor="let item of items">
+<ol *ngFor="let item of items">
+    <button mat-raised-button color="primary" (click)="onRemoveClicked(item.item)">-</button>
     {{item.item.name}} вартість: {{item.item.price}} кількість: {{item.count}}
-    <button (click)="onRemoveClicked(item.item)">-</button>
-    <button (click)="onAddClicked(item.item)">+</button>
-</li>
+    <button mat-raised-button color="warn" (click)="onAddClicked(item.item)">+</button>
+</ol>
 
 <h3>Загальна вартість: {{totalPrice}}</h3>
+</body>

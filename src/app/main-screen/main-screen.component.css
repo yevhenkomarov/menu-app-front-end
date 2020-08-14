@@ -1,7 +1,7 @@
 button{
     font-size: 30px;
-    color: rgb(154, 179, 212);
-    background-color: rgb(14, 28, 32);
+    color:white;
+    background-color: #BE6060;
     width: inherit;
     padding-left: 2vmax;
     padding-right: 2vmax;
@@ -11,10 +11,12 @@ button{
 }
 .center {
     margin: auto;
-    width: 50%;
     padding: 10px;
   }
-  mat-divider{
+.mat-divider{
     padding-top: 10px;
     padding-bottom: 10px;
+}
+body{
+  padding-top: 300px;
 }

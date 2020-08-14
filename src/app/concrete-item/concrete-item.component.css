@@ -1,15 +1,36 @@
-mat-expansion-panel{
-    margin: 5px;
-    text-align: center;
+mat-expansion-panel {
+  margin: 5px;
+  text-align: center;
+  text-size-adjust: inherit;
+  background-color: rgba(0, 0, 0, 0.26);
+}
+/deep/ .mat-expansion-indicator::after {
+  color: #b85c07;
 }
 
-mat-panel-title{
-    color: darkkhaki;
-    font-size: 5vh;
+mat-expansion-indicator {
+  color: burlywood;
+  background-color: burlywood;
 }
 
-mat-panel-description{
-    color: darkseagreen;
-    align-items: center;
-    text-align: right;
+mat-panel-title {
+  color: darkkhaki;
+  font-size: 2.1vh;
+}
+
+mat-panel-description {
+  color: darkseagreen;
+  align-items: center;
+  text-align: right;
+}
+p {
+  color: blanchedalmond;
+}
+button {
+    background-color: #BE6060;
+    color: white;
+}
+.action{
+    align-content: center;
+    align-self: center;
 }

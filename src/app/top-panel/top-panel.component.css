@@ -5,7 +5,7 @@
 }
 
 .logo-left{
-    background-color: #ff6b6b;
+    background-color: #ce3d3d;
     padding: 3px 5px 3px 8px;
     border-radius: 4px;
 }
@@ -26,3 +26,11 @@ button{
     width: 50%;
     padding: 10px;
   }
+#cart{
+    background-color: #BE6060;
+    color: white;
+}
+#back{
+    background-color: #BE6060;
+    color: white;
+}

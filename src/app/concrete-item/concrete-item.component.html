@@ -1,17 +1,17 @@
-<mat-expansion-panel draggable="true">
+<mat-expansion-panel draggable="false" >
     <mat-expansion-panel-header>
         <mat-panel-title>
             {{productName}}
         </mat-panel-title>
         <mat-panel-description>
-            price: {{productPrice}}
+            {{productPrice}}
         </mat-panel-description>
     </mat-expansion-panel-header>
-    <mat-action-row>
-        <button mat-button color="primary" (click)="onDecreaseClicked()">-</button>
+    <mat-action-row class="action">
+        <button mat-raised-button (click)="onDecreaseClicked()">-</button>
         <p>{{itemsCount}}</p>
-        <button mat-button color="primary" (click)="onIncreaseClicked()">+</button>
-        <button mat-button color="primary" (click)="onAddToCartClicked()">Додати</button>
+        <button mat-raised-button (click)="onIncreaseClicked()">+</button>
+        <button mat-raised-button (click)="onAddToCartClicked()">Додати</button>
       </mat-action-row>
     <p id="description">{{productDescription}}</p>
 </mat-expansion-panel>
