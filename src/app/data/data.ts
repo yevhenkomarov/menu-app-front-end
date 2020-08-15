@@ -40,7 +40,7 @@ export const data:any = {
         "id": "178",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "56"
       },
       {
@@ -51,7 +51,7 @@ export const data:any = {
         "id": "180",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "66"
       },
       {
@@ -62,7 +62,7 @@ export const data:any = {
         "id": "200",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "79"
       },
       {
@@ -73,7 +73,7 @@ export const data:any = {
         "id": "196",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "79"
       },
       {
@@ -84,7 +84,7 @@ export const data:any = {
         "id": "192",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -95,7 +95,7 @@ export const data:any = {
         "id": "184",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "66"
       },
       {
@@ -106,7 +106,7 @@ export const data:any = {
         "id": "182",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "66"
       },
       {
@@ -117,7 +117,7 @@ export const data:any = {
         "id": "198",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "79"
       },
       {
@@ -128,7 +128,7 @@ export const data:any = {
         "id": "186",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -139,7 +139,7 @@ export const data:any = {
         "id": "176",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "49"
       },
       {
@@ -150,7 +150,7 @@ export const data:any = {
         "id": "188",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -161,7 +161,7 @@ export const data:any = {
         "id": "204",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "94"
       },
       {
@@ -172,7 +172,7 @@ export const data:any = {
         "id": "1260",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "49"
       },
       {
@@ -183,7 +183,7 @@ export const data:any = {
         "id": "190",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -194,7 +194,7 @@ export const data:any = {
         "id": "202",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "94"
       },
       {
@@ -205,7 +205,7 @@ export const data:any = {
         "id": "1119",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -216,7 +216,7 @@ export const data:any = {
         "id": "1050",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -227,7 +227,7 @@ export const data:any = {
         "id": "1271",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -238,7 +238,7 @@ export const data:any = {
         "id": "1073",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "60"
       },
       {
@@ -249,7 +249,7 @@ export const data:any = {
         "id": "210",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -260,7 +260,7 @@ export const data:any = {
         "id": "208",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -271,7 +271,7 @@ export const data:any = {
         "id": "206",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -282,7 +282,7 @@ export const data:any = {
         "id": "1261",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "49"
       },
       {
@@ -293,7 +293,7 @@ export const data:any = {
         "id": "167",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -304,7 +304,7 @@ export const data:any = {
         "id": "161",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "56"
       },
       {
@@ -315,7 +315,7 @@ export const data:any = {
         "id": "159",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "56"
       },
       {
@@ -326,7 +326,7 @@ export const data:any = {
         "id": "165",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -337,7 +337,7 @@ export const data:any = {
         "id": "163",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -348,7 +348,7 @@ export const data:any = {
         "id": "157",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "49"
       },
       {
@@ -359,7 +359,7 @@ export const data:any = {
         "id": "171",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "79"
       },
       {
@@ -370,7 +370,7 @@ export const data:any = {
         "id": "169",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -381,7 +381,7 @@ export const data:any = {
         "id": "995",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -392,7 +392,7 @@ export const data:any = {
         "id": "173",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "94"
       },
       {
@@ -403,7 +403,7 @@ export const data:any = {
         "id": "997",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "73"
       },
       {
@@ -414,7 +414,7 @@ export const data:any = {
         "id": "146",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -425,7 +425,7 @@ export const data:any = {
         "id": "1084",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -436,7 +436,7 @@ export const data:any = {
         "id": "142",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -447,7 +447,7 @@ export const data:any = {
         "id": "144",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -458,7 +458,7 @@ export const data:any = {
         "id": "1160",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "89"
       },
       {
@@ -469,7 +469,7 @@ export const data:any = {
         "id": "138",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "175"
       },
       {
@@ -480,7 +480,7 @@ export const data:any = {
         "id": "109",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "46"
       },
       {
@@ -491,7 +491,7 @@ export const data:any = {
         "id": "136",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "149"
       },
       {
@@ -502,7 +502,7 @@ export const data:any = {
         "id": "1194",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "149"
       },
       {
@@ -513,7 +513,7 @@ export const data:any = {
         "id": "120",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -524,7 +524,7 @@ export const data:any = {
         "id": "1168",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -535,7 +535,7 @@ export const data:any = {
         "id": "1074",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "85"
       },
       {
@@ -546,7 +546,7 @@ export const data:any = {
         "id": "1269",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -557,7 +557,7 @@ export const data:any = {
         "id": "1075",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -568,7 +568,7 @@ export const data:any = {
         "id": "118",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "85"
       },
       {
@@ -579,7 +579,7 @@ export const data:any = {
         "id": "112",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "46"
       },
       {
@@ -590,7 +590,7 @@ export const data:any = {
         "id": "124",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -601,7 +601,7 @@ export const data:any = {
         "id": "122",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -612,7 +612,7 @@ export const data:any = {
         "id": "116",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -623,7 +623,7 @@ export const data:any = {
         "id": "140",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "220"
       },
       {
@@ -634,7 +634,7 @@ export const data:any = {
         "id": "126",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "85"
       },
       {
@@ -645,7 +645,7 @@ export const data:any = {
         "id": "1196",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "149"
       },
       {
@@ -656,7 +656,7 @@ export const data:any = {
         "id": "110",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -667,7 +667,7 @@ export const data:any = {
         "id": "130",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "124"
       },
       {
@@ -678,7 +678,7 @@ export const data:any = {
         "id": "134",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "149"
       },
       {
@@ -689,7 +689,7 @@ export const data:any = {
         "id": "132",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "124"
       },
       {
@@ -700,7 +700,7 @@ export const data:any = {
         "id": "1170",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -711,7 +711,7 @@ export const data:any = {
         "id": "114",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -722,7 +722,7 @@ export const data:any = {
         "id": "128",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "105"
       },
       {
@@ -733,7 +733,7 @@ export const data:any = {
         "id": "1257",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "46"
       },
       {
@@ -744,7 +744,7 @@ export const data:any = {
         "id": "246",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -755,7 +755,7 @@ export const data:any = {
         "id": "244",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -766,7 +766,7 @@ export const data:any = {
         "id": "242",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "20"
       },
       {
@@ -777,7 +777,7 @@ export const data:any = {
         "id": "1279",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -788,7 +788,7 @@ export const data:any = {
         "id": "240",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "60"
       },
       {
@@ -799,7 +799,7 @@ export const data:any = {
         "id": "238",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -810,7 +810,7 @@ export const data:any = {
         "id": "1052",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "25"
       },
       {
@@ -821,7 +821,7 @@ export const data:any = {
         "id": "999",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -832,7 +832,7 @@ export const data:any = {
         "id": "1051",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -843,7 +843,7 @@ export const data:any = {
         "id": "1053",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "25"
       },
       {
@@ -854,7 +854,7 @@ export const data:any = {
         "id": "148",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -865,7 +865,7 @@ export const data:any = {
         "id": "1258",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -876,7 +876,7 @@ export const data:any = {
         "id": "150",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -887,7 +887,7 @@ export const data:any = {
         "id": "741",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -898,7 +898,7 @@ export const data:any = {
         "id": "1256",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -909,7 +909,7 @@ export const data:any = {
         "id": "1088",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "700"
       },
       {
@@ -920,7 +920,7 @@ export const data:any = {
         "id": "740",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -931,7 +931,7 @@ export const data:any = {
         "id": "418",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -942,7 +942,7 @@ export const data:any = {
         "id": "419",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -953,7 +953,7 @@ export const data:any = {
         "id": "397",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -964,7 +964,7 @@ export const data:any = {
         "id": "392",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -975,7 +975,7 @@ export const data:any = {
         "id": "435",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -986,7 +986,7 @@ export const data:any = {
         "id": "391",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -997,7 +997,7 @@ export const data:any = {
         "id": "390",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -1008,7 +1008,7 @@ export const data:any = {
         "id": "395",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -1019,7 +1019,7 @@ export const data:any = {
         "id": "369",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "89"
       },
       {
@@ -1030,7 +1030,7 @@ export const data:any = {
         "id": "383",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "99"
       },
       {
@@ -1041,7 +1041,7 @@ export const data:any = {
         "id": "379",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "89"
       },
       {
@@ -1052,7 +1052,7 @@ export const data:any = {
         "id": "1152",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1063,7 +1063,7 @@ export const data:any = {
         "id": "1014",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -1074,7 +1074,7 @@ export const data:any = {
         "id": "385",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -1085,7 +1085,7 @@ export const data:any = {
         "id": "1151",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -1096,7 +1096,7 @@ export const data:any = {
         "id": "1284",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "99"
       },
       {
@@ -1107,7 +1107,7 @@ export const data:any = {
         "id": "1009",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "89"
       },
       {
@@ -1118,7 +1118,7 @@ export const data:any = {
         "id": "377",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -1129,7 +1129,7 @@ export const data:any = {
         "id": "363",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "110"
       },
       {
@@ -1140,7 +1140,7 @@ export const data:any = {
         "id": "366",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -1151,7 +1151,7 @@ export const data:any = {
         "id": "364",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "125"
       },
       {
@@ -1162,7 +1162,7 @@ export const data:any = {
         "id": "1122",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1173,7 +1173,7 @@ export const data:any = {
         "id": "381",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "99"
       },
       {
@@ -1184,7 +1184,7 @@ export const data:any = {
         "id": "1270",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "125"
       },
       {
@@ -1195,7 +1195,7 @@ export const data:any = {
         "id": "1182",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "125"
       },
       {
@@ -1206,7 +1206,7 @@ export const data:any = {
         "id": "1013",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -1217,7 +1217,7 @@ export const data:any = {
         "id": "386",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "99"
       },
       {
@@ -1228,7 +1228,7 @@ export const data:any = {
         "id": "371",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -1239,7 +1239,7 @@ export const data:any = {
         "id": "374",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "89"
       },
       {
@@ -1250,7 +1250,7 @@ export const data:any = {
         "id": "1162",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1261,7 +1261,7 @@ export const data:any = {
         "id": "219",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1272,7 +1272,7 @@ export const data:any = {
         "id": "218",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1283,7 +1283,7 @@ export const data:any = {
         "id": "216",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "149"
       },
       {
@@ -1294,7 +1294,7 @@ export const data:any = {
         "id": "214",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "107"
       },
       {
@@ -1305,7 +1305,7 @@ export const data:any = {
         "id": "212",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -1316,7 +1316,7 @@ export const data:any = {
         "id": "222",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -1327,7 +1327,7 @@ export const data:any = {
         "id": "228",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1338,7 +1338,7 @@ export const data:any = {
         "id": "230",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "69"
       },
       {
@@ -1349,7 +1349,7 @@ export const data:any = {
         "id": "226",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1360,7 +1360,7 @@ export const data:any = {
         "id": "224",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -1371,7 +1371,7 @@ export const data:any = {
         "id": "817",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "3"
       },
       {
@@ -1382,7 +1382,7 @@ export const data:any = {
         "id": "814",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "6"
       },
       {
@@ -1393,7 +1393,7 @@ export const data:any = {
         "id": "820",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "3"
       },
       {
@@ -1404,7 +1404,7 @@ export const data:any = {
         "id": "816",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "4"
       },
       {
@@ -1415,7 +1415,7 @@ export const data:any = {
         "id": "815",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "3"
       },
       {
@@ -1426,7 +1426,7 @@ export const data:any = {
         "id": "819",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "1.5"
       },
       {
@@ -1437,7 +1437,7 @@ export const data:any = {
         "id": "813",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "7"
       },
       {
@@ -1448,7 +1448,7 @@ export const data:any = {
         "id": "878",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "12"
       },
       {
@@ -1459,7 +1459,7 @@ export const data:any = {
         "id": "874",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -1470,7 +1470,7 @@ export const data:any = {
         "id": "877",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -1481,7 +1481,7 @@ export const data:any = {
         "id": "879",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "12"
       },
       {
@@ -1492,7 +1492,7 @@ export const data:any = {
         "id": "876",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -1503,7 +1503,7 @@ export const data:any = {
         "id": "875",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "5"
       },
       {
@@ -1514,7 +1514,7 @@ export const data:any = {
         "id": "957",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "12"
       },
       {
@@ -1525,7 +1525,7 @@ export const data:any = {
         "id": "880",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "12"
       },
       {
@@ -1536,7 +1536,7 @@ export const data:any = {
         "id": "818",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "2"
       },
       {
@@ -1547,7 +1547,7 @@ export const data:any = {
         "id": "24",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1558,7 +1558,7 @@ export const data:any = {
         "id": "70",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "85"
       },
       {
@@ -1569,7 +1569,7 @@ export const data:any = {
         "id": "1082",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -1580,7 +1580,7 @@ export const data:any = {
         "id": "5",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -1591,7 +1591,7 @@ export const data:any = {
         "id": "960",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -1602,7 +1602,7 @@ export const data:any = {
         "id": "8",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "35"
       },
       {
@@ -1613,7 +1613,7 @@ export const data:any = {
         "id": "13",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "39"
       },
       {
@@ -1624,7 +1624,7 @@ export const data:any = {
         "id": "361",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -1635,7 +1635,7 @@ export const data:any = {
         "id": "67",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "4"
       },
       {
@@ -1646,7 +1646,7 @@ export const data:any = {
         "id": "1203",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "8"
       },
       {
@@ -1657,7 +1657,7 @@ export const data:any = {
         "id": "28",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1668,7 +1668,7 @@ export const data:any = {
         "id": "22",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -1679,7 +1679,7 @@ export const data:any = {
         "id": "1011",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1690,7 +1690,7 @@ export const data:any = {
         "id": "427",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1701,7 +1701,7 @@ export const data:any = {
         "id": "436",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1712,7 +1712,7 @@ export const data:any = {
         "id": "433",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1723,7 +1723,7 @@ export const data:any = {
         "id": "1010",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1734,7 +1734,7 @@ export const data:any = {
         "id": "425",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -1745,7 +1745,7 @@ export const data:any = {
         "id": "422",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1756,7 +1756,7 @@ export const data:any = {
         "id": "421",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -1767,7 +1767,7 @@ export const data:any = {
         "id": "423",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -1778,7 +1778,7 @@ export const data:any = {
         "id": "426",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1789,7 +1789,7 @@ export const data:any = {
         "id": "430",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1800,7 +1800,7 @@ export const data:any = {
         "id": "428",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1811,7 +1811,7 @@ export const data:any = {
         "id": "432",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -1822,7 +1822,7 @@ export const data:any = {
         "id": "804",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -1833,7 +1833,7 @@ export const data:any = {
         "id": "342",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1844,7 +1844,7 @@ export const data:any = {
         "id": "30",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1855,7 +1855,7 @@ export const data:any = {
         "id": "360",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1866,7 +1866,7 @@ export const data:any = {
         "id": "352",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1877,7 +1877,7 @@ export const data:any = {
         "id": "348",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1888,7 +1888,7 @@ export const data:any = {
         "id": "346",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1899,7 +1899,7 @@ export const data:any = {
         "id": "358",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1910,7 +1910,7 @@ export const data:any = {
         "id": "344",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1921,7 +1921,7 @@ export const data:any = {
         "id": "356",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1932,7 +1932,7 @@ export const data:any = {
         "id": "350",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1943,7 +1943,7 @@ export const data:any = {
         "id": "354",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1954,7 +1954,7 @@ export const data:any = {
         "id": "1087",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -1965,7 +1965,7 @@ export const data:any = {
         "id": "805",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1976,7 +1976,7 @@ export const data:any = {
         "id": "61",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1987,7 +1987,7 @@ export const data:any = {
         "id": "65",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -1998,7 +1998,7 @@ export const data:any = {
         "id": "806",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -2009,7 +2009,7 @@ export const data:any = {
         "id": "62",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "47"
       },
       {
@@ -2020,7 +2020,7 @@ export const data:any = {
         "id": "236",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "39"
       },
       {
@@ -2031,7 +2031,7 @@ export const data:any = {
         "id": "234",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "39"
       },
       {
@@ -2042,7 +2042,7 @@ export const data:any = {
         "id": "232",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -2053,7 +2053,7 @@ export const data:any = {
         "id": "1045",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -2064,7 +2064,7 @@ export const data:any = {
         "id": "1047",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2075,7 +2075,7 @@ export const data:any = {
         "id": "405",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2086,7 +2086,7 @@ export const data:any = {
         "id": "404",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2097,7 +2097,7 @@ export const data:any = {
         "id": "1208",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -2108,7 +2108,7 @@ export const data:any = {
         "id": "1209",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2119,7 +2119,7 @@ export const data:any = {
         "id": "742",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "60"
       },
       {
@@ -2130,7 +2130,7 @@ export const data:any = {
         "id": "1046",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -2141,7 +2141,7 @@ export const data:any = {
         "id": "1264",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -2152,7 +2152,7 @@ export const data:any = {
         "id": "410",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2163,7 +2163,7 @@ export const data:any = {
         "id": "411",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -2174,7 +2174,7 @@ export const data:any = {
         "id": "1206",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "40"
       },
       {
@@ -2185,7 +2185,7 @@ export const data:any = {
         "id": "1207",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2196,7 +2196,7 @@ export const data:any = {
         "id": "409",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2207,7 +2207,7 @@ export const data:any = {
         "id": "408",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2218,7 +2218,7 @@ export const data:any = {
         "id": "406",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2229,7 +2229,7 @@ export const data:any = {
         "id": "407",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2240,7 +2240,7 @@ export const data:any = {
         "id": "258",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -2251,7 +2251,7 @@ export const data:any = {
         "id": "262",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2262,7 +2262,7 @@ export const data:any = {
         "id": "264",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -2273,7 +2273,7 @@ export const data:any = {
         "id": "270",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -2284,7 +2284,7 @@ export const data:any = {
         "id": "248",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2295,7 +2295,7 @@ export const data:any = {
         "id": "254",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "60"
       },
       {
@@ -2306,7 +2306,7 @@ export const data:any = {
         "id": "256",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2317,7 +2317,7 @@ export const data:any = {
         "id": "1263",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2328,7 +2328,7 @@ export const data:any = {
         "id": "266",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -2339,7 +2339,7 @@ export const data:any = {
         "id": "268",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -2350,7 +2350,7 @@ export const data:any = {
         "id": "272",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2361,7 +2361,7 @@ export const data:any = {
         "id": "260",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -2372,7 +2372,7 @@ export const data:any = {
         "id": "252",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -2383,7 +2383,7 @@ export const data:any = {
         "id": "250",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -2394,7 +2394,7 @@ export const data:any = {
         "id": "273",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "310"
       },
       {
@@ -2405,7 +2405,7 @@ export const data:any = {
         "id": "414",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "45"
       },
       {
@@ -2416,7 +2416,7 @@ export const data:any = {
         "id": "1197",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "760"
       },
       {
@@ -2427,7 +2427,7 @@ export const data:any = {
         "id": "303",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "450"
       },
       {
@@ -2438,7 +2438,7 @@ export const data:any = {
         "id": "302",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "140"
       },
       {
@@ -2449,7 +2449,7 @@ export const data:any = {
         "id": "300",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "100"
       },
       {
@@ -2460,7 +2460,7 @@ export const data:any = {
         "id": "1124",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "100"
       },
       {
@@ -2471,7 +2471,7 @@ export const data:any = {
         "id": "1128",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "95"
       },
       {
@@ -2482,7 +2482,7 @@ export const data:any = {
         "id": "276",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2493,7 +2493,7 @@ export const data:any = {
         "id": "278",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2504,7 +2504,7 @@ export const data:any = {
         "id": "286",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2515,7 +2515,7 @@ export const data:any = {
         "id": "284",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2526,7 +2526,7 @@ export const data:any = {
         "id": "288",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2537,7 +2537,7 @@ export const data:any = {
         "id": "280",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2548,7 +2548,7 @@ export const data:any = {
         "id": "282",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -2559,7 +2559,7 @@ export const data:any = {
         "id": "294",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "95"
       },
       {
@@ -2570,7 +2570,7 @@ export const data:any = {
         "id": "292",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -2581,7 +2581,7 @@ export const data:any = {
         "id": "290",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -2592,7 +2592,7 @@ export const data:any = {
         "id": "1280",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "65"
       },
       {
@@ -2603,7 +2603,7 @@ export const data:any = {
         "id": "1282",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -2614,7 +2614,7 @@ export const data:any = {
         "id": "1281",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "85"
       },
       {
@@ -2625,7 +2625,7 @@ export const data:any = {
         "id": "1126",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "110"
       },
       {
@@ -2636,7 +2636,7 @@ export const data:any = {
         "id": "298",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "110"
       },
       {
@@ -2647,7 +2647,7 @@ export const data:any = {
         "id": "296",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "95"
       },
       {
@@ -2658,7 +2658,7 @@ export const data:any = {
         "id": "1266",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "120"
       },
       {
@@ -2669,7 +2669,7 @@ export const data:any = {
         "id": "1276",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "100"
       },
       {
@@ -2680,7 +2680,7 @@ export const data:any = {
         "id": "1267",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "70"
       },
       {
@@ -2691,7 +2691,7 @@ export const data:any = {
         "id": "1277",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -2702,7 +2702,7 @@ export const data:any = {
         "id": "501",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -2713,7 +2713,7 @@ export const data:any = {
         "id": "1278",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -2724,7 +2724,7 @@ export const data:any = {
         "id": "1265",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "99"
       },
       {
@@ -2735,7 +2735,7 @@ export const data:any = {
         "id": "1093",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2746,7 +2746,7 @@ export const data:any = {
         "id": "1095",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "60"
       },
       {
@@ -2757,7 +2757,7 @@ export const data:any = {
         "id": "1094",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2768,7 +2768,7 @@ export const data:any = {
         "id": "933",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2779,7 +2779,7 @@ export const data:any = {
         "id": "984",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "98"
       },
       {
@@ -2790,7 +2790,7 @@ export const data:any = {
         "id": "970",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2801,18 +2801,18 @@ export const data:any = {
         "id": "966",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
         "group": "Кухня",
         "category": "WOK",
-        "name": "Креветки WOK з локшиною 300g",
+        "name": "Креветки WOK з рисовою локшиною 300g",
         "art": "392",
         "id": "445",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "креветки, шпинат соус на вибір: теріякі, солодко-гострий, устричний",
         "price": "169"
       },
       {
@@ -2823,7 +2823,7 @@ export const data:any = {
         "id": "440",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "159"
       },
       {
@@ -2834,29 +2834,29 @@ export const data:any = {
         "id": "439",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "96"
       },
       {
         "group": "Кухня",
         "category": "WOK",
-        "name": "Курка WOK з локшиною 300g ",
+        "name": "Курка WOK з рисовою локшиною 300g ",
         "art": "391",
         "id": "444",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "морква, болгарський перець, сезам, соус на вибір: теріякі, солодко-гострий, устричний",
         "price": "116"
       },
       {
         "group": "Кухня",
         "category": "WOK",
-        "name": "Овочі WOK з локшиною 300g",
+        "name": "Овочі WOK з рисовою локшиною",
         "art": "389",
         "id": "442",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "броколі, початки кукурудзи, стручкова квасоля, перець болгарський,  брюссельська капуста, морква, сезам, унаґі, соус на вибір: теріякі, солодко-гострий, устричний",
         "price": "97"
       },
       {
@@ -2867,7 +2867,7 @@ export const data:any = {
         "id": "437",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "87"
       },
       {
@@ -2878,7 +2878,7 @@ export const data:any = {
         "id": "441",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "24"
       },
       {
@@ -2889,7 +2889,7 @@ export const data:any = {
         "id": "965",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "98"
       },
       {
@@ -2900,18 +2900,18 @@ export const data:any = {
         "id": "438",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "128"
       },
       {
         "group": "Кухня",
         "category": "WOK",
-        "name": "Телятина WOK з локшиною 300g",
+        "name": "Телятина WOK з рисовою локшиною 300g",
         "art": "390",
         "id": "443",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "морква, болгарський перець, сезам, цибуля порей, соус на вибір: теріякі, солодко-гострий, устричний",
         "price": "138"
       },
       {
@@ -2922,7 +2922,7 @@ export const data:any = {
         "id": "1164",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -2933,7 +2933,7 @@ export const data:any = {
         "id": "1215",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -2944,7 +2944,7 @@ export const data:any = {
         "id": "881",
         "type": "Блюдо",
         "measurement": "кг",
-        "description": "1",
+        "description": "",
         "price": "500"
       },
       {
@@ -2955,7 +2955,7 @@ export const data:any = {
         "id": "1153",
         "type": "Блюдо",
         "measurement": "кг",
-        "description": "1",
+        "description": "",
         "price": "129"
       },
       {
@@ -2966,7 +2966,7 @@ export const data:any = {
         "id": "1056",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -2977,7 +2977,7 @@ export const data:any = {
         "id": "1055",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "5"
       },
       {
@@ -2988,7 +2988,7 @@ export const data:any = {
         "id": "1059",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -2999,7 +2999,7 @@ export const data:any = {
         "id": "1068",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "1,550.00"
       },
       {
@@ -3010,7 +3010,7 @@ export const data:any = {
         "id": "1067",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "650"
       },
       {
@@ -3021,7 +3021,7 @@ export const data:any = {
         "id": "1057",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "54"
       },
       {
@@ -3032,7 +3032,7 @@ export const data:any = {
         "id": "1058",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "78"
       },
       {
@@ -3043,7 +3043,7 @@ export const data:any = {
         "id": "1061",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "187"
       },
       {
@@ -3054,7 +3054,7 @@ export const data:any = {
         "id": "1065",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "130"
       },
       {
@@ -3065,7 +3065,7 @@ export const data:any = {
         "id": "1066",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "90"
       },
       {
@@ -3076,7 +3076,7 @@ export const data:any = {
         "id": "1060",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -3087,7 +3087,7 @@ export const data:any = {
         "id": "487",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "69"
       },
       {
@@ -3098,7 +3098,7 @@ export const data:any = {
         "id": "488",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "+ кетчуп",
         "price": "69"
       },
       {
@@ -3109,7 +3109,7 @@ export const data:any = {
         "id": "489",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3120,7 +3120,7 @@ export const data:any = {
         "id": "486",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "вершкове масло, червоний перець, соус чеддер",
         "price": "59"
       },
       {
@@ -3131,7 +3131,7 @@ export const data:any = {
         "id": "482",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "курка, картопля Кантрі, соус на вибір: теріякі, солодко-гострий, устричний",
         "price": "160"
       },
       {
@@ -3142,7 +3142,7 @@ export const data:any = {
         "id": "480",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "139"
       },
       {
@@ -3153,7 +3153,7 @@ export const data:any = {
         "id": "481",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "139"
       },
       {
@@ -3164,7 +3164,7 @@ export const data:any = {
         "id": "485",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3175,7 +3175,7 @@ export const data:any = {
         "id": "483",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "креветки, картопля Кантрі, соус на вибір: теріякі, солодко-гострий, устричний",
         "price": "299"
       },
       {
@@ -3186,7 +3186,7 @@ export const data:any = {
         "id": "974",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3197,7 +3197,7 @@ export const data:any = {
         "id": "478",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "курячі крильця з солодко-гострим соусом. ГОСТРІ",
         "price": "159"
       },
       {
@@ -3208,7 +3208,7 @@ export const data:any = {
         "id": "1259",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "курячі крильця в соусі BBQ",
         "price": "159"
       },
       {
@@ -3219,7 +3219,7 @@ export const data:any = {
         "id": "477",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "креветки, кальмари, мідії, восьминіг, морський гребінець, вершки, цибуля, часник, пармезан, чебрець",
         "price": "159"
       },
       {
@@ -3230,7 +3230,7 @@ export const data:any = {
         "id": "479",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "курячі крильця з устричним соусом",
         "price": "159"
       },
       {
@@ -3241,7 +3241,7 @@ export const data:any = {
         "id": "1161",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "сир чеддер, соус чеддер, картопля Кантрі, паприка",
         "price": "199"
       },
       {
@@ -3252,7 +3252,7 @@ export const data:any = {
         "id": "540",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3263,7 +3263,7 @@ export const data:any = {
         "id": "1034",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3274,7 +3274,7 @@ export const data:any = {
         "id": "1036",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3285,7 +3285,7 @@ export const data:any = {
         "id": "1031",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "55"
       },
       {
@@ -3296,7 +3296,7 @@ export const data:any = {
         "id": "1064",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -3307,7 +3307,7 @@ export const data:any = {
         "id": "541",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3318,7 +3318,7 @@ export const data:any = {
         "id": "991",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3329,7 +3329,7 @@ export const data:any = {
         "id": "992",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3340,7 +3340,7 @@ export const data:any = {
         "id": "993",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3351,7 +3351,7 @@ export const data:any = {
         "id": "537",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3362,7 +3362,7 @@ export const data:any = {
         "id": "539",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3373,7 +3373,7 @@ export const data:any = {
         "id": "938",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3384,7 +3384,7 @@ export const data:any = {
         "id": "1085",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3395,7 +3395,7 @@ export const data:any = {
         "id": "803",
         "type": "Блюдо",
         "measurement": "кг",
-        "description": "1",
+        "description": "",
         "price": "59"
       },
       {
@@ -3406,7 +3406,7 @@ export const data:any = {
         "id": "538",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "75"
       },
       {
@@ -3417,7 +3417,7 @@ export const data:any = {
         "id": "1076",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3428,7 +3428,7 @@ export const data:any = {
         "id": "1077",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "67"
       },
       {
@@ -3439,7 +3439,7 @@ export const data:any = {
         "id": "867",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3450,7 +3450,7 @@ export const data:any = {
         "id": "865",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3461,7 +3461,7 @@ export const data:any = {
         "id": "869",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3472,7 +3472,7 @@ export const data:any = {
         "id": "868",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3483,7 +3483,7 @@ export const data:any = {
         "id": "870",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -3494,7 +3494,7 @@ export const data:any = {
         "id": "864",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3505,7 +3505,7 @@ export const data:any = {
         "id": "866",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "14"
       },
       {
@@ -3516,7 +3516,7 @@ export const data:any = {
         "id": "499",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "169"
       },
       {
@@ -3527,7 +3527,7 @@ export const data:any = {
         "id": "1199",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -3538,7 +3538,7 @@ export const data:any = {
         "id": "500",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "99"
       },
       {
@@ -3549,7 +3549,7 @@ export const data:any = {
         "id": "890",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "87"
       },
       {
@@ -3560,7 +3560,7 @@ export const data:any = {
         "id": "899",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "64"
       },
       {
@@ -3571,7 +3571,7 @@ export const data:any = {
         "id": "897",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "127"
       },
       {
@@ -3582,7 +3582,7 @@ export const data:any = {
         "id": "894",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "71"
       },
       {
@@ -3593,7 +3593,7 @@ export const data:any = {
         "id": "895",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "58"
       },
       {
@@ -3604,7 +3604,7 @@ export const data:any = {
         "id": "898",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "79"
       },
       {
@@ -3615,7 +3615,7 @@ export const data:any = {
         "id": "896",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "148"
       },
       {
@@ -3626,7 +3626,7 @@ export const data:any = {
         "id": "900",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "122"
       },
       {
@@ -3637,7 +3637,7 @@ export const data:any = {
         "id": "889",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "98"
       },
       {
@@ -3648,7 +3648,7 @@ export const data:any = {
         "id": "901",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "158"
       },
       {
@@ -3659,7 +3659,7 @@ export const data:any = {
         "id": "838",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3670,7 +3670,7 @@ export const data:any = {
         "id": "837",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3681,7 +3681,7 @@ export const data:any = {
         "id": "847",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3692,7 +3692,7 @@ export const data:any = {
         "id": "831",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3703,7 +3703,7 @@ export const data:any = {
         "id": "840",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3714,7 +3714,7 @@ export const data:any = {
         "id": "830",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "5"
       },
       {
@@ -3725,7 +3725,7 @@ export const data:any = {
         "id": "824",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "12"
       },
       {
@@ -3736,7 +3736,7 @@ export const data:any = {
         "id": "836",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "7"
       },
       {
@@ -3747,7 +3747,7 @@ export const data:any = {
         "id": "822",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3758,7 +3758,7 @@ export const data:any = {
         "id": "821",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "50"
       },
       {
@@ -3769,7 +3769,7 @@ export const data:any = {
         "id": "846",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3780,7 +3780,7 @@ export const data:any = {
         "id": "841",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "8"
       },
       {
@@ -3791,7 +3791,7 @@ export const data:any = {
         "id": "827",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "17"
       },
       {
@@ -3802,7 +3802,7 @@ export const data:any = {
         "id": "842",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3813,7 +3813,7 @@ export const data:any = {
         "id": "826",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "7"
       },
       {
@@ -3824,7 +3824,7 @@ export const data:any = {
         "id": "829",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -3835,7 +3835,7 @@ export const data:any = {
         "id": "844",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "25"
       },
       {
@@ -3846,7 +3846,7 @@ export const data:any = {
         "id": "823",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "20"
       },
       {
@@ -3857,7 +3857,7 @@ export const data:any = {
         "id": "1086",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "25"
       },
       {
@@ -3868,7 +3868,7 @@ export const data:any = {
         "id": "828",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "20"
       },
       {
@@ -3879,7 +3879,7 @@ export const data:any = {
         "id": "832",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -3890,7 +3890,7 @@ export const data:any = {
         "id": "843",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "27"
       },
       {
@@ -3901,7 +3901,7 @@ export const data:any = {
         "id": "849",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "35"
       },
       {
@@ -3912,7 +3912,7 @@ export const data:any = {
         "id": "848",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -3923,7 +3923,7 @@ export const data:any = {
         "id": "845",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -3934,7 +3934,7 @@ export const data:any = {
         "id": "839",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "20"
       },
       {
@@ -3945,7 +3945,7 @@ export const data:any = {
         "id": "833",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -3956,7 +3956,7 @@ export const data:any = {
         "id": "834",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "17"
       },
       {
@@ -3967,7 +3967,7 @@ export const data:any = {
         "id": "835",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "25"
       },
       {
@@ -3978,7 +3978,7 @@ export const data:any = {
         "id": "825",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "17"
       },
       {
@@ -4011,7 +4011,7 @@ export const data:any = {
         "id": "454",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "151"
       },
       {
@@ -4022,7 +4022,7 @@ export const data:any = {
         "id": "567",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "209"
       },
       {
@@ -4033,7 +4033,7 @@ export const data:any = {
         "id": "457",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "172"
       },
       {
@@ -4066,7 +4066,7 @@ export const data:any = {
         "id": "576",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "179"
       },
       {
@@ -4088,7 +4088,7 @@ export const data:any = {
         "id": "447",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4099,7 +4099,7 @@ export const data:any = {
         "id": "449",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4143,7 +4143,7 @@ export const data:any = {
         "id": "464",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "71"
       },
       {
@@ -4154,7 +4154,7 @@ export const data:any = {
         "id": "463",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "66"
       },
       {
@@ -4165,7 +4165,7 @@ export const data:any = {
         "id": "587",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "79"
       },
       {
@@ -4209,7 +4209,7 @@ export const data:any = {
         "id": "939",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "53"
       },
       {
@@ -4220,7 +4220,7 @@ export const data:any = {
         "id": "520",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "69"
       },
       {
@@ -4231,7 +4231,7 @@ export const data:any = {
         "id": "519",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4242,7 +4242,7 @@ export const data:any = {
         "id": "518",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4253,7 +4253,7 @@ export const data:any = {
         "id": "516",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4264,7 +4264,7 @@ export const data:any = {
         "id": "514",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "вугор, огірок, авокадо, тобіко",
         "price": "157"
       },
       {
@@ -4275,7 +4275,7 @@ export const data:any = {
         "id": "513",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "лосось, огірок, авокадо, тобіко",
         "price": "142"
       },
       {
@@ -4286,7 +4286,7 @@ export const data:any = {
         "id": "521",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "41"
       },
       {
@@ -4297,7 +4297,7 @@ export const data:any = {
         "id": "934",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "лосось, крем-сир, соус унаґі, розмарин, апельсин",
         "price": "158"
       },
       {
@@ -4308,7 +4308,7 @@ export const data:any = {
         "id": "523",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "58"
       },
       {
@@ -4319,7 +4319,7 @@ export const data:any = {
         "id": "524",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "84"
       },
       {
@@ -4330,7 +4330,7 @@ export const data:any = {
         "id": "515",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "лосось, огірок, авокадо, крем-сир, тобіко",
         "price": "157"
       },
       {
@@ -4341,7 +4341,7 @@ export const data:any = {
         "id": "517",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4352,18 +4352,18 @@ export const data:any = {
         "id": "470",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "фета,  мікс салатів, буряк запечений, в’ялені томати, порей, мікрогрін",
         "price": "85"
       },
       {
         "group": "Кухня",
         "category": "Салати",
-        "name": "Салат з  Ротолі 220g",
+        "name": "Салат з Ротолі 220g",
         "art": "421",
         "id": "474",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "рулетки з м’яса птиці, фаршировані горгондзолою, томати, мікс салатів, соус цезар, перепелині яйця, пармезан, хлібці",
         "price": "149"
       },
       {
@@ -4374,7 +4374,7 @@ export const data:any = {
         "id": "473",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "креветки, томати, мікс салатів, соус цезар, перепелині яйця, хлібці, пармезан",
         "price": "169"
       },
       {
@@ -4385,7 +4385,7 @@ export const data:any = {
         "id": "1149",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4396,7 +4396,7 @@ export const data:any = {
         "id": "472",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4407,7 +4407,7 @@ export const data:any = {
         "id": "476",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4418,7 +4418,7 @@ export const data:any = {
         "id": "1181",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4429,7 +4429,7 @@ export const data:any = {
         "id": "471",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4440,7 +4440,7 @@ export const data:any = {
         "id": "475",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "телятина, горгондзола, рукола, ромен, оливки, цукіні, червона цибуля, томати, соус малиновий",
         "price": "149"
       },
       {
@@ -4451,7 +4451,7 @@ export const data:any = {
         "id": "1283",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "креветки, кальмари, мідії, восьминіг, морський гребінець, томати, мікс салатів,апельсин, соус цезар, пармезан",
         "price": "199"
       },
       {
@@ -4462,7 +4462,7 @@ export const data:any = {
         "id": "495",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "Chicken Sticks, соус гірчично - йогуртовий, томати мікс салатів, картопля Кантрі",
         "price": "119"
       },
       {
@@ -4473,7 +4473,7 @@ export const data:any = {
         "id": "490",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4484,7 +4484,7 @@ export const data:any = {
         "id": "494",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "140"
       },
       {
@@ -4495,7 +4495,7 @@ export const data:any = {
         "id": "1096",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "маленька булочка з сезамом, котлета з яловичини, маринований огірок,  чеддер, сирний соус, картопля Кантрі",
         "price": "69"
       },
       {
@@ -4506,7 +4506,7 @@ export const data:any = {
         "id": "496",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4517,7 +4517,7 @@ export const data:any = {
         "id": "498",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4528,7 +4528,7 @@ export const data:any = {
         "id": "492",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "філе форелі, мікс салатів, чеддер,томати, вершково-устричний соус, картопля Кантрі",
         "price": "179"
       },
       {
@@ -4539,7 +4539,7 @@ export const data:any = {
         "id": "1211",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4550,7 +4550,7 @@ export const data:any = {
         "id": "1213",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4561,7 +4561,7 @@ export const data:any = {
         "id": "1212",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4572,29 +4572,29 @@ export const data:any = {
         "id": "1214",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
         "group": "Кухня",
         "category": "Сендвічі",
-        "name": "Сувід Бургер з куркою",
+        "name": "Су-від Бургер з куркою",
         "art": "1167",
         "id": "1252",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "курятина су-від, йогуртовий соус, горгонзола, томати, маринована цибуля, чеддер, картопля Кантрі",
         "price": "99"
       },
       {
         "group": "Кухня",
         "category": "Сендвічі",
-        "name": "Сувід Бургер з телятиною 300/50g",
+        "name": "Су-від Бургер з телятиною 300/50g",
         "art": "440",
         "id": "493",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "телятина су-від, капуста білокачанна, томати, соус Гострий, картопля Кантрі",
         "price": "119"
       },
       {
@@ -4605,7 +4605,7 @@ export const data:any = {
         "id": "497",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4616,7 +4616,7 @@ export const data:any = {
         "id": "491",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "яловичина, соус чеддер, сир чеддер, томати, червона цибуля, зелень, картопля Кантрі",
         "price": "149"
       },
       {
@@ -4627,7 +4627,7 @@ export const data:any = {
         "id": "534",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -4638,7 +4638,7 @@ export const data:any = {
         "id": "528",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -4649,7 +4649,7 @@ export const data:any = {
         "id": "526",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -4660,7 +4660,7 @@ export const data:any = {
         "id": "525",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "20"
       },
       {
@@ -4671,7 +4671,7 @@ export const data:any = {
         "id": "536",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -4682,7 +4682,7 @@ export const data:any = {
         "id": "527",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -4693,7 +4693,7 @@ export const data:any = {
         "id": "529",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -4704,7 +4704,7 @@ export const data:any = {
         "id": "533",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -4715,7 +4715,7 @@ export const data:any = {
         "id": "532",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -4726,7 +4726,7 @@ export const data:any = {
         "id": "530",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "10"
       },
       {
@@ -4737,7 +4737,7 @@ export const data:any = {
         "id": "531",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "15"
       },
       {
@@ -4748,7 +4748,7 @@ export const data:any = {
         "id": "535",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "30"
       },
       {
@@ -4759,7 +4759,7 @@ export const data:any = {
         "id": "507",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4770,7 +4770,7 @@ export const data:any = {
         "id": "512",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "індичка, перепелині яйця, зелень",
         "price": "48"
       },
       {
@@ -4781,7 +4781,7 @@ export const data:any = {
         "id": "1091",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "80"
       },
       {
@@ -4792,7 +4792,7 @@ export const data:any = {
         "id": "1092",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4803,7 +4803,7 @@ export const data:any = {
         "id": "510",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4814,7 +4814,7 @@ export const data:any = {
         "id": "504",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "м’ясний бульйон, локшина Рамен, зелена цибуля, гриби шіїтаке,шпинат свіжий, креветки, яйце куряче, мікро грін, кінза, морські водорості, печериці",
         "price": "127"
       },
       {
@@ -4825,7 +4825,7 @@ export const data:any = {
         "id": "505",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "98"
       },
       {
@@ -4836,7 +4836,7 @@ export const data:any = {
         "id": "506",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "м’ясний бульйон, локшина Рамен, зелена цибуля, гриби шіїтаке,шпинат свіжий, яйце куряче, мікро грін, кінза, телятина, морські водорості, печериці",
         "price": "98"
       },
       {
@@ -4847,7 +4847,7 @@ export const data:any = {
         "id": "508",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4858,7 +4858,7 @@ export const data:any = {
         "id": "509",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4869,7 +4869,7 @@ export const data:any = {
         "id": "503",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4880,7 +4880,7 @@ export const data:any = {
         "id": "663",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4891,7 +4891,7 @@ export const data:any = {
         "id": "1090",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4902,7 +4902,7 @@ export const data:any = {
         "id": "1089",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4913,7 +4913,7 @@ export const data:any = {
         "id": "1146",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4924,7 +4924,7 @@ export const data:any = {
         "id": "1147",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4935,7 +4935,7 @@ export const data:any = {
         "id": "1145",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4946,7 +4946,7 @@ export const data:any = {
         "id": "1130",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4957,7 +4957,7 @@ export const data:any = {
         "id": "1132",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4968,7 +4968,7 @@ export const data:any = {
         "id": "1143",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4979,7 +4979,7 @@ export const data:any = {
         "id": "1148",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -4990,7 +4990,7 @@ export const data:any = {
         "id": "1144",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "0"
       },
       {
@@ -5001,7 +5001,7 @@ export const data:any = {
         "id": "744",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "25"
       },
       {
@@ -5012,7 +5012,7 @@ export const data:any = {
         "id": "745",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "29"
       },
       {
@@ -5023,7 +5023,7 @@ export const data:any = {
         "id": "743",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "23"
       },
       {
@@ -5034,7 +5034,7 @@ export const data:any = {
         "id": "747",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "18"
       },
       {
@@ -5045,7 +5045,7 @@ export const data:any = {
         "id": "746",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "18"
       },
       {
@@ -5056,7 +5056,7 @@ export const data:any = {
         "id": "809",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "4"
       },
       {
@@ -5067,7 +5067,7 @@ export const data:any = {
         "id": "810",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "4"
       },
       {
@@ -5078,7 +5078,7 @@ export const data:any = {
         "id": "807",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "2"
       },
       {
@@ -5089,7 +5089,7 @@ export const data:any = {
         "id": "808",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "20"
       },
       {
@@ -5100,7 +5100,7 @@ export const data:any = {
         "id": "811",
         "type": "Блюдо",
         "measurement": "шт",
-        "description": "1",
+        "description": "",
         "price": "4"
       },
       {
@@ -5111,18 +5111,18 @@ export const data:any = {
         "id": "466",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "",
         "price": "135"
       },
       {
         "group": "Кухня",
         "category": "Холодні закуски",
-        "name": "М`ясна дошка 125g",
+        "name": "М'ясна дошка 125g",
         "art": "414",
         "id": "467",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "Прошутто крудо, салямі, салямі піканте, оливки",
         "price": "129"
       },
       {
@@ -5133,7 +5133,7 @@ export const data:any = {
         "id": "468",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "горгонзола, Брі, пармезан, моцарелла, горіхи, малинове варення, родзинки",
         "price": "129"
       },
       {
@@ -5144,7 +5144,7 @@ export const data:any = {
         "id": "469",
         "type": "Блюдо",
         "measurement": "порц",
-        "description": "1",
+        "description": "квасоля, нут, оливкова олія, часник, кумин, паприка, яйце  куряче, мікс зелені, гранат, піта, сезам",
         "price": "94"
       }
     ]

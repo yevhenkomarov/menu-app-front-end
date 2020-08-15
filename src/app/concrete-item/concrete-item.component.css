@@ -25,6 +25,8 @@ mat-panel-description {
 }
 p {
   color: blanchedalmond;
+  padding-left: 10px;
+  padding-right: 4px;
 }
 button {
     background-color: #BE6060;

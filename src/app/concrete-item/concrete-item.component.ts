@@ -9,31 +9,33 @@ import { ProductData } from '../data/productData';
 })
 export class ConcreteItemComponent implements OnInit {
 
-  itemsCount:number;
-  constructor(private orderService:MyOrderService) { }
+  itemsCount: number;
+  constructor(private orderService: MyOrderService) { }
 
   ngOnInit() {
     this.itemsCount = 0;
   }
   @Input()
-  productDescription:string;
+  productDescription: string;
   @Input()
-  productPrice:number;
+  productPrice: number;
   @Input()
-  productName:string;
+  productName: string;
 
   onIncreaseClicked() {
     this.itemsCount++;
   }
 
   onDecreaseClicked() {
-    if(this.itemsCount > 0){
+    if (this.itemsCount > 0) {
       this.itemsCount--;
     }
   }
 
-  onAddToCartClicked(){
+  onAddToCartClicked() {
     const currentProductData = new ProductData(this.productName, this.productDescription, this.productPrice);
-    this.orderService.addToMyOrder(currentProductData, this.itemsCount);
+    if (this.itemsCount > 0) {
+      this.orderService.addToMyOrder(currentProductData, this.itemsCount);
+    }
   }
 }

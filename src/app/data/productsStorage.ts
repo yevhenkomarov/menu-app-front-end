@@ -46,7 +46,7 @@ export class ProductsStorage {
         let arr = this.menuObject.menu as unknown as Array<MenuItem>;
         for (let index = 0; index < arr.length; index++) {
             const element = arr[index];
-            if (element.category == category) {
+            if (element.category == category && element.price != '0') {
                 result.Add(new ProductData(element.name, element.description, +element.price))
             }
         }

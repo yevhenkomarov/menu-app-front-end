@@ -1,22 +1,22 @@
-button{
-    font-size: 30px;
-    color:white;
-    background-color: #BE6060;
-    width: inherit;
-    padding-left: 2vmax;
-    padding-right: 2vmax;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: center;
+button {
+  font-size: 30px;
+  color: white;
+  background-color: #be6060;
+  width: inherit;
+  padding-left: 2vmax;
+  padding-right: 2vmax;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
 }
 .center {
-    margin: auto;
-    padding: 10px;
-  }
-.mat-divider{
-    padding-top: 10px;
-    padding-bottom: 10px;
+  margin: auto;
+  padding: 10px;
 }
-body{
-  padding-top: 300px;
+div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body {
+  padding-top: 50px;
 }
