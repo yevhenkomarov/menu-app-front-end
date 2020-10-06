@@ -30,10 +30,12 @@ export class MyOrderComponent implements OnInit {
 
   private updateOrderList(){
     this.items = new Set<OrderItemInfo>();
-    const currentList:List<OrderItemInfo> = this.orderService.getCurrentList();
-    currentList.ForEach(item => {
-      this.items.add(item);
-    })
+    const currentList = this.orderService.getCurrentList();
+    const count = currentList.length;
+    for (let i = 0; i < count; i++) {
+      const element = currentList[i];
+      this.items.add(element);
+    }
 
     this.updateTotalPrice();
   }

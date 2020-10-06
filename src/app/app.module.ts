@@ -36,10 +36,10 @@ import { MatSidenavModule } from '@angular/material/sidenav';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    RouterModule.forRoot(appRoutes),
+    RouterModule.forRoot(appRoutes,  { useHash: true }),
     BrowserAnimationsModule,
     MatExpansionModule,
-    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
+    ServiceWorkerModule.register('ngsw-worker.js'),
     HttpClientModule,
     MatButtonModule,
     MatDividerModule,
